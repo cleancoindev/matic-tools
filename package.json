@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@maticnetwork/dagger": "^0.1.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "web3": "^1.2.11"
   }
 }
